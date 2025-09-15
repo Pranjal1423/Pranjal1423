@@ -4,18 +4,17 @@
 
 ---
 
-I'm a passionate tech enthusiast currently pursuing my Bachelor's in Computer Engineering at MESCOE, Pune. With a strong foundation in AI/ML, software development, and web technologies, I love building real-world solutions — from emotion-based apps to secure data platforms.
+I'm a passionate tech enthusiast currently pursuing my Bachelor's in Computer Engineering at MESCOE, Pune. With a developing foundation in AI/ML, software development, and web technologies, I love building real-world solutions — from emotion-based apps to secure data platforms.
 
 - 🔍 Currently diving deep into **algorithmic trading** using MQL5  
 - 🤖 Final year project focused on **AI-powered applications**
-- 🚀 Exploring **Generative AI**, **Full-Stack Projects**, and **Cloud Development**
-
+- 🚀 Exploring **Generative AI**, **Full-Stack Projects**
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**: Python, Java, JavaScript  
-**Web Dev**: React.js, Node.js, Express.js, Flask, PHP, HTML, CSS, WordPress, .NET  
+**Web Dev**: , HTML, CSS, WordPress, .NET  
 **ML Tools**: Scikit-learn, TensorFlow, Pandas, NumPy  
 **Databases**: MongoDB, MySQL  
 **Tools**: Git, VS Code, Google Cloud, Jupyter, Docker  
@@ -25,8 +24,6 @@ I'm a passionate tech enthusiast currently pursuing my Bachelor's in Computer En
 
 ## 🚀 Featured Projects
 
-- **SoulScript**: A personal journaling PWA with mood tracking, voice journaling & Google Drive backup  
-  _Tech: React.js, Node.js, MongoDB, Express.js_
 
 - **MoodCanvas**: AI-based image generator using user mood & text-to-image diffusion models  
   _Tech: Python, Hugging Face Transformers, Flask_
