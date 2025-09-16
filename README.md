@@ -17,8 +17,8 @@ I'm a passionate tech enthusiast currently pursuing my Bachelor's in Computer En
 **Web Dev**: , HTML, CSS, WordPress, .NET  
 **ML Tools**: Scikit-learn, TensorFlow, Pandas, NumPy  
 **Databases**: MongoDB, MySQL  
-**Tools**: Git, VS Code, Google Cloud, Jupyter, Docker  
-**Other**: MQL5, REST APIs, Agile, CI/CD, MERN Stack
+**Tools**: Git, VS Code, Google Cloud  
+**Other**: MQL5, REST APIs, Agile, CI/CD
 
 ---
 
