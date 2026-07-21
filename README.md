@@ -30,5 +30,5 @@ Tools: Git, VS Code, Local WP
 ## Profiles
 
 - Email: pranjalwadhwani4804@gmail.com  
-- LinkedIn: [(link)](https://www.linkedin.com/in/pranjal-wadhwani-9843822a3/ ) 
-- WordPress.org: [(link)](https://pranjalcodes.wordpress.com/)  
+- LinkedIn: [(https://www.linkedin.com/in/pranjal-wadhwani-9843822a3/)](https://www.linkedin.com/in/pranjal-wadhwani-9843822a3/ ) 
+- WordPress.org: [(https://profiles.wordpress.org/pranjal4804/)](https://profiles.wordpress.org/pranjal4804/)  
